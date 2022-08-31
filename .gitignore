@@ -1,0 +1,11 @@
+.env
+/__pycache__/*
+/build/*
+/image/*
+/PiggyBank_webpack/*
+solc-select
+/node_modules/*
+contract_compiled.json
+contract_info.json
+TestEchidna/artifacts
+TestEchidna/cache
